@@ -2,9 +2,9 @@
 
 ### 🔹 [1-warm-up](./1-warm-up/)
 
+- **[Count-Digits](./count-digits/)**
 - **[Palindrome](./palindrome/)**
 - **[Reverse-interger](./reverse-integer/)**
 - **[Second-largest](./second-largest/)**
-- **[Count-Digits](./count-digits/)**
 
 -- **[Practice](https://namastedev.com/playground)**
