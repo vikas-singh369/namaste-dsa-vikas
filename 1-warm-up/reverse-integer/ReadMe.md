@@ -10,8 +10,8 @@ Example:
 
 ## Approach 
 my approach is to reverse the number 
-1. store the original: save x  value in `original`
-2. absolute the value of x `x = Math.abs(x)` because i want to handle negative numbers by converting them into positive, and after reversing the number i will restore the sign.
+1. store the originaland create the copy of original value: save xCopy =  `original`
+2. absolute the value of xCopy `xCopy = Math.abs(xCopy)` because i want to handle negative numbers by converting them into positive, and after reversing the number i will restore the sign.
 
 3. reverse 
 ```
@@ -27,7 +27,7 @@ while(x>0){
 
 limit = 2^31 
 
-if(rev > limit - 1  || rev < limit ) return 0
+if(rev > limit - 1  || rev < -(limit) ) return 0
 
 5.  return rev
 ```
