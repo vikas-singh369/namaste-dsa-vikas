@@ -43,4 +43,16 @@ retrun secondLargest === -Infinity ? " No second largest found " : secondLargest
 
 [Code](./solution.js)
 
+**Different scenario** :- [Code second Largest](./second-largest-lenght.js)
+
+### if Second Largest Digit in a String
+**Approach** : 
+check the string contain digit if yes then push them to the array and follow the second largest
+
+[Code](./second-largest-in-str.js)
+
+## Complexity Analysis
+- **Time Complexity:** O(n) 
+- **Space Complexity:** O(1) 
+
 **By vikas singh**
