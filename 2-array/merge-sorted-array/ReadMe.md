@@ -38,7 +38,7 @@ if( p1 < m  && nums1Copy[p1] < nums2[p2] || p2>=n ){
 }
 ```
 
-[Code](./solution.js)
+[Code](./solution2.js)
 
 ## Time and Spce Complexity
 - **Time Complexity** : - O(m+n)
@@ -79,7 +79,7 @@ for(i = m + n - 1 ; i >= 0 ; i--){
 - **Space Complexity** : - O (1) no extra space used.
 
 
-[Code](./solution.js)
+[Code](./solution3.js)
 
 
 **By vikas singh**
