@@ -42,7 +42,7 @@ a xor a -> a
 
 a xor 0 -> 0
 ```
-[code](./solution.js)
+[code](./solution2.js)
 
 
 ## Time and Space Complexity
