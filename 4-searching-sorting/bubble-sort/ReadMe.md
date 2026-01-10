@@ -1,7 +1,6 @@
 # Bubble Sort
 
 ## Approach : 
-
 iterate the array multiple times
 1. in every pass, compare each pair of adjacent elements in the array.
 
@@ -20,16 +19,11 @@ for( i = 0; i< n-1; i++){
   }
 }
 ```
-**[Code](./solution1.js)**
 
 ### optimized the solution
  
 using `isSwapped` flag initial value is false if swap happed then make it `true`. 
 in every pass this process happened if swpped not happened its means array value is sorted then break the loop.
-
-```
-if( !isSwapped) break;
-```
 
 **[Code](./solution.js)**
 
