@@ -16,22 +16,14 @@ Repeating this process for each index results in a completely sorted array.
 ### Time and Space complexity : 
 
 **Time-complexity** : o(n^2) 
-** Space-complexity** : O(1);
+** Space-complexity** : O(1) not uses extra space
 
-**[Code](./iterative-approach.js)**
-
-
-## Optimize version, same algorithm better efficiency 
-
-In previous code i swap every time when i found the smallest element so in optimized way i just Single Swap per Pass.
-
-**[Code](./solution1.js)**
+**[Code](./solution.js)**
 
 
 more optimized : if my min value and current index value same then i don't want to swap it so let's optimized it
 
-**[Code](./solution.js)**
-
+**[Code](./optimize.js)**
 
 
 **By Vikas singh**
