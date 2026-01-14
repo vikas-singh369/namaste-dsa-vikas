@@ -1,6 +1,8 @@
 # Merge Sort
 
-## Approach :
+Merge sort is divide and conquer algoritham
+
+## Approach ( sorting technique ) :
  divide , conquer, and combine
 
 1. divide :  the array into two parts

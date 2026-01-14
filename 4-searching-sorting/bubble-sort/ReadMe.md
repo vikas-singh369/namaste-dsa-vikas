@@ -1,6 +1,6 @@
 # Bubble Sort
 
-## Approach : 
+## Approach ( sorting technique ) : 
 iterate the array multiple times
 1. in every pass, compare each pair of adjacent elements in the array.
 

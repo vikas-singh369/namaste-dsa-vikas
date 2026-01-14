@@ -1,6 +1,6 @@
 # Selection Sort
 
-## Approach : 
+## Approach (sorting technique) : 
 
 In the selection sort algorithm, we use two nested loops.
 
