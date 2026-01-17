@@ -11,7 +11,7 @@ MyLinkedList.prototype.deleteAtIndex = function (index) {
     for(let i =0 ; i< index-1; i++){
       current = current.next;
     }
-    current.next = current.next.next;
+    current.next = current.next?.next;
   }
   this.size--;
 }
