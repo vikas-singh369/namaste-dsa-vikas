@@ -10,9 +10,8 @@ Output: true
 ## Approach 1 Convert to the array and check palindrome and return
 
 - 1 traverse the List and push the all value to the Array list
-- 2 find mid value
-- 3 loop the array check using two pointer approach check the first and last value 
-- 4 if value not same return false (not palindrome) otherwise return true (palindrome)
+- 2 loop the array check using two pointer approach check the first and last value 
+- 3 if value not same return false (not palindrome) otherwise return true (palindrome)
 
 
 ## Time and Space Complexity

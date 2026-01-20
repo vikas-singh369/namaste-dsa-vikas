@@ -1,27 +1,24 @@
-//Approach 1. convert and check 
+//Approach 1. convert and check
 
+var isPalindrome = function (head) {
+  let list = [];
+  let curr = head;
 
-/**
- * @param {ListNode} head
- * @return {boolean}
- */
-var isPalindrome = function(head) {
-    let list = [];
-    let curr = head;
+  while (curr) {
+    list.push(curr.val);
+    curr = curr.next;
+  }
 
-    while(curr){
-        list.push(curr.val);
+  let i = 0;
+  let j = arr.length - 1;
 
-        curr = curr.next
+  while (i <= j) {
+    if (list[i] != list[j]) {
+      return false;
     }
+    i++;
+    j--;
+  }
 
-    let mid = Math.floor(list.length / 2)
-    let n = list.length;
-
-    for(let i = 0 ; i< mid; i++){
-        if(list[i] !=list[n-i-1]){
-            return false
-        }
-    }
-    return true;
+  return true;
 };
