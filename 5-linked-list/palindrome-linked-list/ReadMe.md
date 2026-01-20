@@ -17,7 +17,7 @@ Output: true
 
 ## Time and Space Complexity
 **Time-Complexity** : O(n)
-**Space-Complexity** : O(1) - using extra space
+**Space-Complexity** : O(n) - using extra space
 
 [Code](./solution.js)
 
