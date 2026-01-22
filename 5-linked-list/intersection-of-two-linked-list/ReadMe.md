@@ -11,8 +11,9 @@ Output: Intersected at '8'
 
 1. check `headA` node is equal to `headB` all elements if it is true means current node is a node where headA or headB `intersect` happen. so return that current node.
 
-This approach is not good because its take `o(n^2)` Time complexity.
+This approach is not good because its take `o(n^2)` Time complexity. but space we are not using extra.
 
+[Code](./firstSolution.js)
 
 ## Approach : 2 Otimized and better way to find intersection.
 

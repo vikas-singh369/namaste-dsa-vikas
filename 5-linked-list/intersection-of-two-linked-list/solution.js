@@ -5,22 +5,14 @@
  *     this.next = null;
  * }
  */
-
-/**
- * @param {ListNode} headA
- * @param {ListNode} headB
- * @return {ListNode}
- */
 var getIntersectionNode = function (headA, headB) {
   let store = new Set();
-
   let curr = headB;
 
   while (curr) {
     store.add(curr);
     curr = curr.next;
   }
-
   curr = headA;
 
   while (curr) {
@@ -29,6 +21,5 @@ var getIntersectionNode = function (headA, headB) {
     }
     curr = curr.next;
   }
-
   return curr;
 };
