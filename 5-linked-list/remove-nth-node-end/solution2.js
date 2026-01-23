@@ -1,11 +1,6 @@
 /*
 * one pass Approach
 */
-/**
- * @param {ListNode} head
- * @param {number} n
- * @return {ListNode}
- */
 var removeNthFromEnd = function (head, n) {
     // create sentinel node 
     let sentinel = new ListNode();
