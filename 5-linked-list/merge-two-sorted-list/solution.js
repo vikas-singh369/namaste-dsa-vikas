@@ -1,8 +1,3 @@
-/**
- * @param {ListNode} list1
- * @param {ListNode} list2
- * @return {ListNode}
- */
 var mergeTwoLists = function (l1, l2) {
   let headPoint = new ListNode();
 

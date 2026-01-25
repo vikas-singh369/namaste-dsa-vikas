@@ -13,5 +13,7 @@
 - **[Remove nth node at ent in list](./remove-nth-node-end/)**
 - **[Remove Duplicates](./remove-duplicates/)**
 
+- **[Odd Even](./odd-even/)**
+
 
 - **[Merge two sorted list](./merge-two-sorted-list/)**
