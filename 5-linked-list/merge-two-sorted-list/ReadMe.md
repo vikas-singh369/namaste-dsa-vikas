@@ -19,7 +19,7 @@ Output: []
 
 My approach is compare both list value and based on that make a sorted list.
 
-- I want a starting point `curr` node so i compare the both value and find next smaller element means smallest value so i used dummy node or we say sentinel node concept.
+- starting point `curr` node so i compare the both value and find next smaller element means smallest value so i used dummy node or we say sentinel node concept.
 
 - if Any of them list exhausted then curr.next point the reamaining list node.
 
