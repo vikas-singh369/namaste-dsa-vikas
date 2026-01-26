@@ -1,4 +1,5 @@
 # Merge Two Sorted Lists
+
 [Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 You are given the heads of two sorted linked lists list1 and list2.
@@ -14,8 +15,8 @@ Example 2:
 Input: list1 = [], list2 = []
 Output: []
 
+## Approach
 
-## Approach 
 My approach is compare both list value and based on that make a sorted list.
 
 - I want a starting point `curr` node so i compare the both value and find next smaller element means smallest value so i used dummy node or we say sentinel node concept.
@@ -51,6 +52,7 @@ return headPoint.next
 - This code also handled the all corner cases so no need.
 
 ### Time and Spcae Complexity
+
 **Time-Complexity** O(n)
 **Space-Complexity** O(1)
 
