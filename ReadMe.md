@@ -1,4 +1,4 @@
-#  Namaste DSA Notes – JavaScript
+#  Namaste DSA Vikas Singh – JavaScript
 
 This repository contains JavaScript solutions, approaches, and notes based on the **Namaste DSA** series and selected **LeetCode** problems.  
 It reflects my problem-solving skills, logical thinking, and consistent practice using JavaScript.
