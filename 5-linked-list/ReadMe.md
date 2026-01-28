@@ -10,10 +10,12 @@
 - **[Intersection of two linked list](./intersection-of-two-linked-list/)**
 
 - **[Remove Linked list Elements](./remove-linked-list-elements/)**
-- **[Remove nth node at ent in list](./remove-nth-node-end/)**
 - **[Remove Duplicates](./remove-duplicates/)**
+- **[Remove nth node at ent in list](./remove-nth-node-end/)**
 
 - **[Odd Even](./odd-even/)**
-
-
+- **[Rottated list](./rotate-list/)**
 - **[Merge two sorted list](./merge-two-sorted-list/)**
+- **[Swap Pairs list](./swap-nodes-in-pairs/)**
+
+- **[Add two numbers](./add-two-numbers/)**

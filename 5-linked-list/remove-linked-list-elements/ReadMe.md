@@ -17,7 +17,6 @@ Input: head = [7,7,7,7], val = 7
 Output: []
 
 
-## Approach: 
 ## Approach
 My approach is based on different scenarios.  
 - If the node to be removed (equal to the given `val`) lies somewhere in the middle, I can simply unlink it using:  
