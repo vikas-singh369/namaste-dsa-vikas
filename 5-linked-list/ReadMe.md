@@ -18,4 +18,5 @@
 - **[Merge two sorted list](./merge-two-sorted-list/)**
 - **[Swap Pairs list](./swap-nodes-in-pairs/)**
 
+- **[Delete Middle node of List](./delete-middle/)**
 - **[Add two numbers](./add-two-numbers/)**
