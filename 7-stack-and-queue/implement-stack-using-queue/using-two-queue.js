@@ -1,13 +1,8 @@
-
 var MyStack = function () {
     this.q1 = [];
     this.q2 = [];
 };
 
-/** 
- * @param {number} x
- * @return {void}
- */
 MyStack.prototype.push = function (x) {
     this.q1.push(x);
 };
