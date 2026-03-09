@@ -28,6 +28,16 @@
 
 ### 🔹 [First Unique Character in a String](./first-unique-char/)
 
+### 🔹 [First Most vowels and Constant](./find-most-voewl-constant/)
+
+### 🔹 [Word Pattern](./word-pattern/)
+
+### 🔹 [Isomorphic string](./isomorphic-str/)
+
+### 🔹 [Product of array Except self](./product-array-expect-self/)
+
+### 🔹 [Longest common prefix](./longest-common-prefix/)
+
 ---
 
 ### 🔹 [Check if Sentence is Pangram](./check-pangram/)
