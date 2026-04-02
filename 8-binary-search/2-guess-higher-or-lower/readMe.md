@@ -13,26 +13,22 @@ You call a pre-defined API int guess(int num), which returns three possible resu
 0: your guess is equal to the number I picked (i.e. num == pick).
 Return the number that I picked.
 
+## Approach :
 
+My approach is using binary search to find the pick number,
 
+initilize the `left = 1` and `right = n` and calculate the `m` middle value and the problem statement already provide the `guess()` function API that take a number and response `0` `1` and `-1` based on that response i used to update my `left` and `right` value until i found the correct one.
 
-## Approach : 
-
-My approach is using binary search to find the pick number, 
-
-initilize the `left = 1` and `right = n` and calculate the `m` middle value and the problem statement already provide the `guess()` function  API that take a number and response `0` `1` and `-1` based on that response i used to update my `left` and `right` value until i found the correct one.
-
--  if function response `0` it means the given value is correct so return it `res === 0` return `m`;
+- if function response `0` it means the given value is correct so return it `res === 0` return `m`;
 
 - response is `-1` means the picked value is smaller so move left side
 
-- response is `1` means the picked value is larger so move right side 
-
+- response is `1` means the picked value is larger so move right side
 
 ```
 loop {
 
-  m = left + right / 2 
+  m = left + right / 2
 
   res = guess(m);
 
