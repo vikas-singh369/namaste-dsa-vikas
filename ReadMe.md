@@ -9,7 +9,8 @@ This repository is **more than just a collection of DSA problems** — I documen
 
 Grateful to **Akshay Saini Sir** for the clear and structured guidance through the Namaste DSA series.This repo is a reflection of my learning, inspired by your guidance and teaching style.
 
-##  Folder Structure
+## Folder Structure
+
 Every folder has its own README structure that contains the approach and solution.
 
 ### 🔸 [1-Warm-Up](./1-warm-up/)
@@ -26,15 +27,17 @@ Every folder has its own README structure that contains the approach and solutio
 
 ### 🔸 [7-Stack and Queue](./7-stack-and-queue/)
 
+### 🔸 [8- Binary Search](./8-binary-search/)
+
 ---
 
 ## Connect With Me
 
 I share my **DSA learning journey, problem explanations, progress updates, and other tech-related video content** on these platforms. Connect with me:
 
-- ***[LinkedIn](https://www.linkedin.com/in/vikas-singh369/)***
-- ***[Instagram](https://www.instagram.com/vikas_singh369/#)***
-- ***[YouTube](https://www.youtube.com/@vikas_singh369)***
+- **_[LinkedIn](https://www.linkedin.com/in/vikas-singh369/)_**
+- **_[Instagram](https://www.instagram.com/vikas_singh369/#)_**
+- **_[YouTube](https://www.youtube.com/@vikas_singh369)_**
 
 You can also explore my coding profiles and work here:
 
@@ -44,5 +47,5 @@ You can also explore my coding profiles and work here:
 
 ---
 
-Created & Maintained by **[Vikas Singh](https://github.com/vikas-singh369)** 
+Created & Maintained by **[Vikas Singh](https://github.com/vikas-singh369)**
 Explore more projects on my **[GitHub profile](https://github.com/vikas-singh369)**
