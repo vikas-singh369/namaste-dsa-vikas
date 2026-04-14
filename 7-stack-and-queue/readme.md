@@ -2,6 +2,24 @@
 
 ## Folder Structure
 
-### 🔹 [Implementation Stack using Queues ](./implement-stack-using-queue/)
+### [Baseball Game](./bassball-game/)
 
-### 🔹 [Implementation Queue using Stack](./implement-queue-using-stack/)
+### [Daily Temperatures](./daily-tempreatures/)
+
+### [Implement Queue using Stack](./implement-queue-using-stack/)
+
+### [Implement Stack using Queue](./implement-stack-using-queue/)
+
+### [Min Stack](./min-stack/)
+
+### [Next Greater Element](./next-greater-element/)
+
+### [Next Greater Element II](./next-greater-element-ll/)
+
+### [Outermost Parenthesis](./outermost-parenthisis/)
+
+### [Reverse Polish Notation](./reverse-polish-notation/)
+
+### [Rotten Oranges](./rotten-oranges/)
+
+### [Valid Parenthesis](./valid-parenthisis/)
